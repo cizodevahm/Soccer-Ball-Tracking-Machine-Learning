@@ -48,5 +48,5 @@ In this project, we employ the YOLOv8 model for detecting a football in video fr
 
 ## License
 
-- This project is licensed under the MIT License. See the LICENSE file for more details.
+- This project is licensed under the GPL-3.0 license. See the [LICENSE](LICENSE) file for more details.
 
