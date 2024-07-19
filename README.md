@@ -28,6 +28,7 @@ In this project, we employ the YOLOv8 model for detecting a football in video fr
   git clone https://github.com/cizodevahm/football-detection.git
   ```
   - Run the ```Football__YOLOv8_Detection_Tracking_CustomData (2).ipynb``` file for training on custom data.
+  - Change the model name if you want to experiment like yolov8m, yolov8s.
 
 ## Roboflow
 
